@@ -14,4 +14,4 @@ The project is to indentify the most popular hour of the day picking ups shared 
 
 ##lisence & copyright
 
-0 william okomba, molinga school Data science student.
+william okomba, molinga school Data science student.
