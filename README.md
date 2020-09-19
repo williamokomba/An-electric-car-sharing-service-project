@@ -1,4 +1,4 @@
-#Project on an electric car-sharing service company
+# Project on an electric car-sharing service company
 
 **Python version 3.8.5**
 
@@ -12,6 +12,6 @@ The project is to indentify the most popular hour of the day picking ups shared 
 
 ----
 
-##lisence & copyright
+## lisence & copyright
 
 william okomba, molinga school Data science student.
